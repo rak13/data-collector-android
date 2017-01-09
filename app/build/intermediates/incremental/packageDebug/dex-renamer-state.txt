@@ -1,0 +1,7 @@
+#Mon Jan 09 17:15:18 BDT 2017
+base.0=C\:\\Users\\rakib\\AndroidStudioProjects\\DataCollector\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3ad87d9c0353fff92f3df188c5117ce03e235a0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\rakib\\AndroidStudioProjects\\DataCollector\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f10b82613627decfc211b5dee51f811b2e66c58\\classes.dex
+base.1=C\:\\Users\\rakib\\AndroidStudioProjects\\DataCollector\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f10b82613627decfc211b5dee51f811b2e66c58
+file.0=C\:\\Users\\rakib\\AndroidStudioProjects\\DataCollector\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d3ad87d9c0353fff92f3df188c5117ce03e235a0\\classes.dex
